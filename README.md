@@ -5,7 +5,6 @@
 👋 Welcome to my GitHub! I’m a Full Stack & Mobile Developer with 7+ years of experience building fast, accessible, and user-centered digital products.
 I love crafting modern frontend experiences, designing scalable systems, and integrating AI into real-world applications.
 
-⸻
 
 🧰 Tech Stack
 
