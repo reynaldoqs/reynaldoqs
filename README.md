@@ -12,13 +12,6 @@
 
 I’m a **Full Stack & Mobile Developer** with **7+ years of experience** building fast, accessible, and user-centered digital products.
 
-I enjoy:
-- Crafting modern and scalable **UI/UX experiences**
-- Designing **clean architectures**
-- Integrating **AI solutions** into real-world applications
-
----
-
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
@@ -89,4 +82,4 @@ I enjoy:
 
 ---
 
-<img src="https://raw.githubusercontent.com/reynaldoqs/reynaldoqs/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
