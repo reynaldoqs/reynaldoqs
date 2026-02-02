@@ -10,7 +10,21 @@
 
 🌟 **Hi, I’m Reynaldo Quispe Sánchez**
 
-I’m a **Full Stack & Mobile Developer** with **7+ years of experience** building fast, accessible, and user-centered digital products.
+I’m a **Full Stack & Mobile Developer** with **7+ years of experience** building fast, accessible, and user-centered digital products. I’m passionate about **UX-driven engineering, performance, accessibility (WCAG),** and **AI-enhanced workflows** — from frontend applications to mobile and backend services.
+
+🔗 **Portfolio:** https://reynaldoqs.vercel.app/
+
+---
+
+## 💼 Experience
+
+### UX & Software Engineering Roles
+- **UX Developer** at *Making Sense LLC* — Designing user-centered experiences and building scalable solutions.  [oai_citation:1‡SignalHire](https://www.signalhire.com/profiles/reynaldo-quispe/240253194?utm_source=chatgpt.com)
+- **Full Stack Engineer** at *Jalasoft* — End-to-end development with a focus on performance and maintainability.  [oai_citation:2‡SignalHire](https://www.signalhire.com/profiles/reynaldo-quispe/240253194?utm_source=chatgpt.com)
+- **Full Stack Engineer** at *Agetic Bolivia* — Government digital platforms and modernization projects.  [oai_citation:3‡SignalHire](https://www.signalhire.com/profiles/reynaldo-quispe/240253194?utm_source=chatgpt.com)
+- **Capacitador** at *UNEFCO* — Training and workshops on software and digital tools.  [oai_citation:4‡SignalHire](https://www.signalhire.com/profiles/reynaldo-quispe/240253194?utm_source=chatgpt.com)
+
+---
 
 ## 🧰 Tech Stack
 
@@ -69,13 +83,13 @@ I’m a **Full Stack & Mobile Developer** with **7+ years of experience** buildi
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/reynaldo-quispe-sanchez" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
   </a>
-  <a href="https://wa.me/" target="_blank">
+  <a href="https://wa.me/59112345678" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" />
   </a>
-  <a href="https://t.me/" target="_blank">
+  <a href="https://t.me/yourusername" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" />
   </a>
 </p>
