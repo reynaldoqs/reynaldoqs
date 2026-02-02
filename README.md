@@ -19,10 +19,10 @@ I’m a **Full Stack & Mobile Developer** with **7+ years of experience** buildi
 ## 💼 Experience
 
 ### UX & Software Engineering Roles
-- **UX Developer** at *Making Sense LLC* — Designing user-centered experiences and building scalable solutions.  [oai_citation:1‡SignalHire](https://www.signalhire.com/profiles/reynaldo-quispe/240253194?utm_source=chatgpt.com)
-- **Full Stack Engineer** at *Jalasoft* — End-to-end development with a focus on performance and maintainability.  [oai_citation:2‡SignalHire](https://www.signalhire.com/profiles/reynaldo-quispe/240253194?utm_source=chatgpt.com)
-- **Full Stack Engineer** at *Agetic Bolivia* — Government digital platforms and modernization projects.  [oai_citation:3‡SignalHire](https://www.signalhire.com/profiles/reynaldo-quispe/240253194?utm_source=chatgpt.com)
-- **Capacitador** at *UNEFCO* — Training and workshops on software and digital tools.  [oai_citation:4‡SignalHire](https://www.signalhire.com/profiles/reynaldo-quispe/240253194?utm_source=chatgpt.com)
+- **UX Developer** at *Making Sense LLC* — Designing user-centered experiences and building scalable solutions. 
+- **Full Stack Engineer** at *Jalasoft* — End-to-end development with a focus on performance and maintainability. 
+- **Full Stack Engineer** at *Agetic Bolivia* — Government digital platforms and modernization projects.
+- **Capacitador** at *UNEFCO* — Training and workshops on software and digital tools. 
 
 ---
 
