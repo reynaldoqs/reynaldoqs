@@ -41,6 +41,7 @@ I’m a **Full Stack & Mobile Developer** with **7+ years of experience** buildi
 - 🔌 **Prisma**, **Sequelize**, **Mongoose**
 - 🧩 **Microservices**, **Kong API Gateway**
 - 🔗 **GraphQL**, **REST APIs**
+- 🟧 **Ruby on Rails**
 
 ### 📱 Mobile
 - 📱 **React Native**
